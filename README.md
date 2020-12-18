@@ -1,2 +1,2 @@
-# Railway Management System
+# Railway Management Software
 A railway management software 
