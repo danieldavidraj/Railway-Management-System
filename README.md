@@ -1,5 +1,7 @@
 # Railway Management Software
 A railway management software to track trains and its routes developed using C++ and data structures.
+## Data Structure used :
+* Linked List
 ## Features :
 * The routes of different trains can be stored like a Railway Database. For example, Train 1 will reach Station 1 at 9:00.
 * An existing train route can be edited.
